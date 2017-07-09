@@ -1,2 +1,2 @@
 # overthewire-leviathan
-OverTheWire.com Leviathan Walkthrough 
+OverTheWire.org Leviathan Walkthrough 
